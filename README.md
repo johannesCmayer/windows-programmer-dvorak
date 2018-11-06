@@ -1,6 +1,8 @@
 windows-programmer-dvorak
 =========================
 
+This is a modified version that contains the programmer layout for the igbo leanguage. This is to work around the problem that windows always adds a US layout to the US leanguage and switches seemingly at random bettween drovrak and normal US.
+
 Contains the MS Keyboard Layout Creator source file for Programmer Dvorak (as found on [http://www.kaufmann.no/roland/dvorak/](http://www.kaufmann.no/roland/dvorak/)).
 
 How is this better than the Windows driver provided on that site?
